@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="theme-color" content="dark">
-    <title>Categories | 荒世孤隐_Cyber Anchorite</title>
+    <title>所有文章 | 荒世孤隐_Cyber Anchorite</title>
 
     
     
     
     <meta property="og:site_name" content="荒世孤隐" />
-    <meta property="og:title" content="Categories | 荒世孤隐_Cyber Anchorite"/>
-    <meta itemprop="name" content="Categories | 荒世孤隐_Cyber Anchorite" />
-    <meta name="twitter:title" content="Categories | 荒世孤隐_Cyber Anchorite" />
-    <meta name="application-name" content="Categories | 荒世孤隐_Cyber Anchorite" /><meta name="twitter:card" content="summary"/>
+    <meta property="og:title" content="所有文章 | 荒世孤隐_Cyber Anchorite"/>
+    <meta itemprop="name" content="所有文章 | 荒世孤隐_Cyber Anchorite" />
+    <meta name="twitter:title" content="所有文章 | 荒世孤隐_Cyber Anchorite" />
+    <meta name="application-name" content="所有文章 | 荒世孤隐_Cyber Anchorite" /><meta name="twitter:card" content="summary"/>
 
     <meta name="description" content="Cyber Anchorite" />
     <meta name="twitter:description" content="Cyber Anchorite"/>
@@ -67,7 +67,7 @@
             </div>
             <div class="flex">
                 
-                <a href="/articles/">文章</a>
+                <a href="/articles/" aria-current="page">文章</a>
                 
                 <a href="/about/">关于</a>
                 
@@ -82,24 +82,51 @@
         <main>
             
 
-
-
-
 <header>
     <div class="container">
-        <h1>Categories</h1>
+        <h1>所有文章</h1>
+        <p class="subtitle">根据标签筛选，或搜索你感兴趣的话题</p>
     </div>
 </header>
 
+
+
 <section>
     <div class="container">
-        <div class="terms">
-            
-            <a href="/categories/%E6%9D%82%E8%B0%88/">杂谈 <span class="bg-number">1</span></a>
-            
+        <div class="filter-container">
+          
+          
+            <div class="filter-item" data-value="杂谈" data-type="categories">
+              杂谈<sup>1</sup>
+            </div>
+          
         </div>
+        <input id="search-query" type="search" placeholder="输入关键词...">
+        
+        <div id="search-results">
+        </div>
+        <section id="articles-list">
+            
+            <section>
+                <h2>2022</h2>
+                <div class="posts">
+                    
+                    <div class="post">
+                        <a href="/posts/my-first-post/">
+                            <div class="post-row">
+                                <time>2022.12.19</time>
+                                <h3>Hello, World!</h3>
+                            </div>
+                        </a>
+                    </div>
+                    
+                </div>
+            </section>
+            
+        </section>
     </div>
 </section>
+<script async src="/ts/search.70c6df81a7f5e0e0c614cdc7402fe66d9e722902665a9b1c4fc72ce79b3a703d.js"></script>
 
 
         </main>

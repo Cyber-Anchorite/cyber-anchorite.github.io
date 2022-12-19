@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂谈 on 荒世孤隐_Cyber Anchorite</title>
+    <link>https://cyber-anchorite.github.io/tags/%E6%9D%82%E8%B0%88/</link>
+    <description>Recent content in 杂谈 on 荒世孤隐_Cyber Anchorite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cyber-anchorite.github.io/tags/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>https://cyber-anchorite.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyber-anchorite.github.io/posts/my-first-post/</guid>
+      <description>1  (print &amp;#34;Hello, World!&amp;#34;)   新网站建成，照习俗1写一行 Hello, World! 庆祝一下。
+为避免陷入 “哪门语言最好” 的争论，因此使用 Common Lisp 这门绝世但低调，却又不失优雅的语言。
+虽然本站并不会以介绍编程技术为主，但依旧希望站点能像这门语言一样长存，也希望本站能为日益发展的互联网社会贡献一些历史价值。
+  &amp;ldquo;Hello, World!&amp;rdquo; program - Wikipedia &amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
+    
+  </channel>
+</rss>
